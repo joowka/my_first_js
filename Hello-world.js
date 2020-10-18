@@ -38,3 +38,5 @@ var pieczywo = {
     chleb:["żytni", "razowy", "ciabata"], 
     pieczywoPlaskie: ["tortilla", "roti", "pita", "chapati"]
 };
+
+const products = [1, 2, 3, 4];
